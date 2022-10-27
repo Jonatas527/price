@@ -1,14 +1,14 @@
 @media(min-width: 650px){
-    .interior{
+    .inferior{
         display: flex;
     }
     .esquerda{
         width:100%;
         padding: 2.5rem;
     }
-    .main{
+    main{
         max-width: 640px;
-        padding: 0%;
+        padding: 0;
     }
     body{
         display: flex;
