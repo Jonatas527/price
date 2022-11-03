@@ -27,6 +27,8 @@
 .direita{
     background-color: var(--Light-Cyan);
     padding: 1.5rem;
+    
+    
 }
 
 #p{
@@ -70,8 +72,10 @@
     padding: 1.5rem;
     border-radius: 0 0 0.0313rem 0.313rem ;
 }
-.direita{
+.direita p{
     line-height: 1.25rem;
     font-size: 0.875rem;
     color: white;
+    opacity: 0.75;
+    
 }
